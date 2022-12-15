@@ -191,6 +191,10 @@ header, .navbar {
   text-align: center;
 }
 
+#image_card{
+  height: 25rem;
+}
+
 /* Trabalhe conosco */
 
 #apply-area {
